@@ -1,0 +1,76 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.container {
+  background-color: rgba(0,0,0,.5);
+  width: 60%;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.lim {
+  width:20%;
+  margin-top: 20px;
+  margin-left: 40%;
+  margin-right: 45%;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(15, 255, 80);
+}
+
+.buttons-section {
+  background-color: #0FFF50;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.monopattino {
+  color: white;
+  text-indent: 85px;
+  line-height: 0px;
+}
+
+span {
+  font-size: 20px;
+}
+
+#orange-bar {
+  width: 30%;
+  height: 30px;
+  background-color: orange;
+  margin-left: 85px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+#green-bar {
+  width: 50%;
+  height: 30px;
+  background-color: green;
+  margin-left: 85px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+#red-bar {
+  width: 20%;
+  height: 30px;
+  background-color: red;
+  margin-left: 85px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
+#space {
+  padding-bottom: 50px;
+}
